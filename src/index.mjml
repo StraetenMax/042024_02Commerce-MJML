@@ -38,7 +38,7 @@
     <!--Hero-->
         <mj-section padding="0">
             <mj-column width="600px">
-                <mj-image padding="0" src="src/img/EmailCommerce042024.gif" alt="Ecosup Commerce : BTS et Bachelor, formations supérieures en alternance" />
+                <mj-image padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/661cbf1be0b69fbf8afb0fab.gif" alt="Ecosup Commerce : BTS et Bachelor, formations supérieures en alternance" />
             </mj-column>
         </mj-section>
         <mj-section background-color="#ffffff">
@@ -61,13 +61,13 @@
             <mj-text mj-class="D_Text" padding-bottom="0">
                 À <strong>ECOSUP Commerce</strong> vous ne serez jamais seul pour votre apprentissage car nous travaillons avec des <strong>entreprises partenaires</strong> prêtes à vous accueillir et à vous confier des missions valorisantes.  
             </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0">
+            <mj-text mj-class="D_Text">
                 Alors n'hésitez pas à nous contacter et à découvrir quelques-unes des propositions de postes en <strong>apprentissage</strong>.
             </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0" align="center">
+            <mj-text mj-class="D_Text" padding-bottom="0" align="center" container-background-color="#edf2f7">
                 <strong style="color:#EC6608">Responsable d'Espace Commercial</strong> - La Poste.
             </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0" align="center">
+            <mj-text mj-class="D_Text" padding-top="0" align="center" container-background-color="#edf2f7">  
                 <strong style="color:#EC6608">Responsable de Rayon</strong> - Enseigne de Bricolage.
             </mj-text>
             <mj-text mj-class="D_Text" padding-bottom="0">
